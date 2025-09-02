@@ -1,14 +1,14 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Tue Sep 02 2025 09:18:45 GMT+0300 (Eastern European Summer Time)|
+|**Generation Date and Time**<br>Tue Sep 02 2025 09:41:13 GMT+0300 (Eastern European Summer Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
 |**App Generator Version**<br>1.17.1|
 |**Generation Platform**<br>Visual Studio Code|
 |**Template Used**<br>simple|
 |**Service Type**<br>None|
 |**Service URL**<br>N/A|
-|**Module Name**<br>van-sales-ui5|
+|**Module Name**<br>van-sales|
 |**Application Title**<br>Van Sales Portal|
 |**Namespace**<br>eco.vansales|
 |**UI5 Theme**<br>sap_horizon|
@@ -17,7 +17,7 @@
 |**Enable TypeScript**<br>True|
 |**Add Eslint configuration**<br>False|
 
-## van-sales-ui5
+## van-sales
 
 An SAP Fiori application.
 

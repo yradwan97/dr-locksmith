@@ -1,7 +1,7 @@
 {
   "_version": "1.65.0",
   "sap.app": {
-    "id": "eco.vansales.vansalesui5",
+    "id": "eco.vansales.vansales",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -13,7 +13,7 @@
     "sourceTemplate": {
       "id": "@sap/generator-fiori:basic",
       "version": "1.17.1",
-      "toolsId": "41987ead-4cec-43f0-95c5-0501c5fa81f6"
+      "toolsId": "9ba53052-520d-4f00-9d7e-9c9fb8d4af3c"
     }
   },
   "sap.ui": {
@@ -49,7 +49,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "eco.vansales.vansalesui5.i18n.i18n"
+          "bundleName": "eco.vansales.vansales.i18n.i18n"
         }
       }
     },
@@ -68,9 +68,9 @@
         "transition": "slide",
         "type": "View",
         "viewType": "XML",
-        "path": "eco.vansales.vansalesui5.view",
+        "path": "eco.vansales.vansales.view",
         "async": true,
-        "viewPath": "eco.vansales.vansalesui5.view"
+        "viewPath": "eco.vansales.vansales.view"
       },
       "routes": [
         {
@@ -89,7 +89,7 @@
       }
     },
     "rootView": {
-      "viewName": "eco.vansales.vansalesui5.view.App",
+      "viewName": "eco.vansales.vansales.view.App",
       "type": "XML",
       "id": "App",
       "async": true

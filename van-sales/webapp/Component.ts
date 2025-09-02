@@ -2,7 +2,7 @@ import BaseComponent from "sap/ui/core/UIComponent";
 import { createDeviceModel } from "./model/models";
 
 /**
- * @namespace eco.vansales.vansalesui5
+ * @namespace eco.vansales.vansales
  */
 export default class Component extends BaseComponent {
 

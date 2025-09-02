@@ -1,7 +1,7 @@
 import Controller from "sap/ui/core/mvc/Controller";
 
 /**
- * @namespace eco.vansales.vansalesui5.controller
+ * @namespace eco.vansales.vansales.controller
  */
 export default class App extends Controller {
 

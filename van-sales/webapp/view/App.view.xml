@@ -1,4 +1,4 @@
-<mvc:View controllerName="eco.vansales.vansalesui5.controller.App"
+<mvc:View controllerName="eco.vansales.vansales.controller.App"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">

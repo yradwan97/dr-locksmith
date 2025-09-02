@@ -11,7 +11,7 @@
     "outDir": "./dist",
     "baseUrl": "./",
     "paths": {
-      "eco/vansales/vansalesui5/*": [
+      "eco/vansales/vansales/*": [
         "./webapp/*"
       ],
       "unit/*": [

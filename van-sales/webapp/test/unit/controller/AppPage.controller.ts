@@ -1,5 +1,5 @@
 /*global QUnit*/
-import Controller from "eco/vansales/vansalesui5/controller/App.controller";
+import Controller from "eco/vansales/vansales/controller/App.controller";
 
 QUnit.module("App Controller");
 
